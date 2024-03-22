@@ -1,0 +1,11 @@
+{
+ "start_block": 300,
+ "end_block": 400,
+ "num_times_hit_each_endpoint": 50,
+ "account_balance_endpoint_average_time_ms": 12,
+ "account_balance_endpoint_total_time_ms": 60588,
+ "account_balance_endpoint_num_errors": 0,
+ "block_endpoint_average_time_ms": 2,
+ "block_endpoint_total_time_ms": 10893,
+ "block_endpoint_num_errors": 0
+}

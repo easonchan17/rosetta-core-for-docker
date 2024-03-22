@@ -1,0 +1,52 @@
+[
+    {
+     "account_identifier": {
+      "address": "0x0000000000000000000000000000000000001000"
+     },
+     "currency": {
+      "symbol": "CORE",
+      "decimals": 18
+     },
+     "value": "1200000000000000000000000000"
+    },
+    {
+     "account_identifier": {
+      "address": "0x0000000000000000000000000000000000001002"
+     },
+     "currency": {
+      "symbol": "CORE",
+      "decimals": 18
+     },
+     "value": "10000000000000000000000000"
+    },
+    {
+     "account_identifier": {
+      "address": "0x0000000000000000000000000000000000001009"
+     },
+     "currency": {
+      "symbol": "CORE",
+      "decimals": 18
+     },
+     "value": "290000000000000000000000000"
+    },
+    {
+     "account_identifier": {
+      "address": "0x288244402acfDB405f2a1730D7a41033Ac6Ac271"
+     },
+     "currency": {
+      "symbol": "CORE",
+      "decimals": 18
+     },
+     "value": "500000000000000000000000000"
+    },
+    {
+     "account_identifier": {
+      "address": "0xA2D48116761f2AF265bEd1d9B000EBBCCA3f12C4"
+     },
+     "currency": {
+      "symbol": "CORE",
+      "decimals": 18
+     },
+     "value": "100000000000000000000000000"
+    }
+   ]

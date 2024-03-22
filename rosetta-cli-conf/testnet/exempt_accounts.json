@@ -1,0 +1,11 @@
+[
+    {
+      "account_identifier": {
+        "address":"0xB1BECe4Af7ee833323b99AFEC7E6E2B48F32a782"
+      },
+      "currency": {
+        "symbol": "CORE",
+        "decimals": 18
+      }
+    }
+]

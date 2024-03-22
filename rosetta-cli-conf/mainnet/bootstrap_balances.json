@@ -1,0 +1,32 @@
+[
+    {
+     "account_identifier": {
+      "address": "0x0000000000000000000000000000000000001000"
+     },
+     "currency": {
+      "symbol": "CORE",
+      "decimals": 18
+     },
+     "value": "839900000000000000000000000"
+    },
+    {
+     "account_identifier": {
+      "address": "0x0000000000000000000000000000000000001002"
+     },
+     "currency": {
+      "symbol": "CORE",
+      "decimals": 18
+     },
+     "value": "10000000000000000000000000"
+    },
+    {
+     "account_identifier": {
+      "address": "0x0000000000000000000000000000000000001009"
+     },
+     "currency": {
+      "symbol": "CORE",
+      "decimals": 18
+     },
+     "value": "1250100000000000000000000000"
+    }
+   ]
