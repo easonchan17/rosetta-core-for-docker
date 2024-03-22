@@ -42,7 +42,7 @@ test:
 	${TEST_SCRIPT}
 
 build-testnet:
-	docker build ${PLATFORM_FLAG} -t rosetta-core:testnet-latest -f Dockerfile.testnet https://${GITHUB_ACCESS_TOKEN_FLAG}github.com/coredao-org/rosetta-core.git
+	docker build ${PLATFORM_FLAG} -t rosetta-core:testnet-latest -f Dockerfile.testnet https://github.com/easonchan17/rosetta-core-for-docker.git
 
 build-mainnet:
 	docker build ${PLATFORM_FLAG} -t rosetta-core:mainnet-latest -f Dockerfile.mainnet https://${GITHUB_ACCESS_TOKEN_FLAG}github.com/coredao-org/rosetta-core.git
